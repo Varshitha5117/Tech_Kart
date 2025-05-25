@@ -1,8 +1,4 @@
-# Tech_KartHere’s a clean and clear README.md for your e-commerce project, up to the current stage (Add to Cart, Cart Page, Checkout View & Templates, Basic Routing):
 
-markdown
-Copy
-Edit
 # 🛒 TechKart - E-commerce Web App (In Progress)
 
 TechKart is a custom-built full-stack e-commerce web application using *Django* for the backend and HTML/CSS/JavaScript for the frontend. It is designed to sell electronics and features a user-friendly shopping experience.
@@ -47,9 +43,6 @@ TechKart/
 ├── db.sqlite3
 └── manage.py
 
-yaml
-Copy
-Edit
 
 ---
 
