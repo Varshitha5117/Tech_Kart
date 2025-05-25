@@ -1,4 +1,4 @@
-# to create models and views for the shop application
+# to create the models and views for the shop application
 from django.apps import AppConfig
 
 
