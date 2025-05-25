@@ -4,6 +4,12 @@ from django.shortcuts import get_object_or_404
 from django.shortcuts import render, redirect, get_object_or_404
 from .models import Product, Cart
 from django.contrib.auth.decorators import login_required
+
+
+
+
+# create your views here.
+
 @login_required
 def add_to_cart(request, product_id):
     product = get_object_or_404(Product, id=product_id)
