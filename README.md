@@ -155,7 +155,7 @@ Order summary and confirmation
 
 Admin dashboard
 
-🧑‍💻 Author
+🧑‍💻 Authors
 Developed by [Varshitha Reddy,Rozal Binish, Sachi Tiwari ]
 
 📄 License
