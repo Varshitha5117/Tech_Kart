@@ -100,7 +100,7 @@ Edit
 
 ---
 
-## 🛠 Setup Instructions
+## 🛠 Setup Instructions :
 
 1. **Clone the repository**  
    ```bash
@@ -135,7 +135,7 @@ python manage.py runserver
 Visit the app
 Open your browser and go to http://127.0.0.1:8000/
 
-✅ Features Implemented So Far
+✅ Features Implemented So Far are
 Home page displaying products
 
 Add to cart button on product pages
@@ -144,7 +144,7 @@ View cart with list of added items and total cost
 
 Checkout page view (placeholder)
 
-📌 Upcoming Features
+📌 Upcoming Features include
 User authentication (login, signup)
 
 Checkout form and payment integration
