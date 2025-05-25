@@ -24,6 +24,6 @@ urlpatterns = [
     path('', include('shop.urls')),  # Replace 'shop' with your app name if different
 ]
 
-# Serve media files in development
+# Serve media files in development and view them in broser
 if settings.DEBUG:
     urlpatterns += static(settings.MEDIA_URL, document_root=settings.MEDIA_ROOT)
