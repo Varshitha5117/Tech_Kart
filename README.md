@@ -135,7 +135,7 @@ python manage.py runserver
 Visit the app
 Open your browser and go to http://127.0.0.1:8000/
 
-✅ Features Implemented So Far are
+✅ Features Implemented So Far include
 Home page displaying products
 
 Add to cart button on product pages
