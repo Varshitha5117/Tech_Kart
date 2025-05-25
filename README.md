@@ -161,9 +161,4 @@ Developed by [Varshitha Reddy,Rozal Binish, Sachi Tiwari ]
 📄 License
 This project is licensed under the MIT License.
 
-yaml
-Copy
-Edit
-
----
 
